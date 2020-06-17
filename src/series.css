@@ -1,0 +1,21 @@
+.container {
+	max-width: 400px;
+	margin: auto;
+	
+}
+form {
+	padding: 20px;
+	background-color: #363e4e;
+	color: #fff;
+	border-radius: 5px;
+	margin: 0 10px;
+	box-shadow: 1px 6px 11px 4px rgba(148,148,148,1);
+}
+/* Heading */
+.heading {
+	text-align: center;
+	padding: 20px 0;
+	font-size: 2.2rem;
+	font-weight: 100;
+	color: #1ba7af;
+}
